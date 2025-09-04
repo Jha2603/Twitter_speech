@@ -44,7 +44,7 @@ This project demonstrates hate speech detection in tweets using advanced NLP tec
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/yourusername/Hate_Speech.git
+   git clone https://github.com/Jha2603/Twitter_speech.git
    cd Twitter_speech
    ```
 
